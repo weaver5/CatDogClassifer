@@ -1,27 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# # <center><font color=maroon>CPE4903 Project: Cats and Dogs Classifier</font> </center>
-# 
-# ### In this mini-project, you will develop a CNN model for the cat-and-dog classifer. 
-# #### You will create `at least two models`, applying the various techniques we discussed for improving the performance. 
-# 
-# 1. Deeper Conv layers and/or FC layers
-# 2. Image augmentation
-# 3. Transfer learning
-# 4. Regularization
-# 5. Increasing image size
-# 6. Increasing size of the train/validation/test dataset
-# 
-# * You will compare the performance of your models with the baseline VGG-5 model.  
-# * <font color=red>Performance requirement: the accuracy on the test data needs to be better than 85% for at least one of your models </font>
-# * You will save the parameters of the model at the end, which will be deployed on Raspberry Pi.
-
-# ### Cats & Dogs Dataset
-# 
-# * #### You are given a zip file, `train.zip`, that contains 25,000 labelled images of cats and dogs (12,500 each) 
-# * #### You will select a subset of $N$ image files from the dataset and store them in the following sub-directory structure, where $N$ can be anywhere between 6,000 to 25,000.
-# * #### The train-validation-test data split is 60%-15%-25%.
 
 # ### Load tool modules
 
